@@ -2,4 +2,6 @@ LinkSystem/bin/*
 LinkSystem/obj/*
 Logger/bin/*
 Logger/obj/*
+Examples/bin/*
+Examples/obj/*
 CommunicationLink.userprefs
