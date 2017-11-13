@@ -4,7 +4,11 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CommunicationLink Status">
+    <Files>
+      <File FileName="CommunicationLink Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
   <AuthorInfo Name="sas800507" Email="" Copyright="sas800507" Company="" Trademark="" />
 </Properties>
