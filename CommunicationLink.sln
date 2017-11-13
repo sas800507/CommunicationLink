@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkSystem", "LinkSystem\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{026B68F4-5526-4FBD-9B82-DE75A8FFB0CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples", "Examples\Examples.csproj", "{947AB27C-4AD3-40A5-AC5B-E619375241F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{026B68F4-5526-4FBD-9B82-DE75A8FFB0CD}.Debug|x86.Build.0 = Debug|Any CPU
 		{026B68F4-5526-4FBD-9B82-DE75A8FFB0CD}.Release|x86.ActiveCfg = Release|Any CPU
 		{026B68F4-5526-4FBD-9B82-DE75A8FFB0CD}.Release|x86.Build.0 = Release|Any CPU
+		{947AB27C-4AD3-40A5-AC5B-E619375241F3}.Debug|x86.ActiveCfg = Debug|x86
+		{947AB27C-4AD3-40A5-AC5B-E619375241F3}.Debug|x86.Build.0 = Debug|x86
+		{947AB27C-4AD3-40A5-AC5B-E619375241F3}.Release|x86.ActiveCfg = Release|x86
+		{947AB27C-4AD3-40A5-AC5B-E619375241F3}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
