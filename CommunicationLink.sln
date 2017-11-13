@@ -1,0 +1,44 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkSystem", "LinkSystem\LinkSystem.csproj", "{F7CB6AF7-EDD2-4EE0-A5C5-07396423E47D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{026B68F4-5526-4FBD-9B82-DE75A8FFB0CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7CB6AF7-EDD2-4EE0-A5C5-07396423E47D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F7CB6AF7-EDD2-4EE0-A5C5-07396423E47D}.Debug|x86.Build.0 = Debug|Any CPU
+		{F7CB6AF7-EDD2-4EE0-A5C5-07396423E47D}.Release|x86.ActiveCfg = Release|Any CPU
+		{F7CB6AF7-EDD2-4EE0-A5C5-07396423E47D}.Release|x86.Build.0 = Release|Any CPU
+		{026B68F4-5526-4FBD-9B82-DE75A8FFB0CD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{026B68F4-5526-4FBD-9B82-DE75A8FFB0CD}.Debug|x86.Build.0 = Debug|Any CPU
+		{026B68F4-5526-4FBD-9B82-DE75A8FFB0CD}.Release|x86.ActiveCfg = Release|Any CPU
+		{026B68F4-5526-4FBD-9B82-DE75A8FFB0CD}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.StandardHeader = $1
+		$1.Text = 
+		$1.IncludeInNewFiles = True
+		$0.NameConventionPolicy = $2
+		$2.Rules = $3
+		$3.NamingRule = $4
+		$4.Name = Type Parameters
+		$4.AffectedEntity = TypeParameter
+		$4.VisibilityMask = VisibilityMask
+		$4.NamingStyle = PascalCase
+		$4.IncludeInstanceMembers = True
+		$4.IncludeStaticEntities = True
+		$4.RequiredPrefixes = $5
+		$5.String = T
+		$4.RequiredSuffixes = $6
+		$6.String = Exception
+		$0.VersionControlPolicy = $7
+		$7.inheritsSet = Mono
+	EndGlobalSection
+EndGlobal
